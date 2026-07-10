@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1470-shuffle-the-array](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
