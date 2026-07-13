@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
