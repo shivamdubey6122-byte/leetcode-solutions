@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
