@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -48,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -71,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
