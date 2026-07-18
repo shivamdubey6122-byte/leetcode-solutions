@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/shivamdubey6122-byte/leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
